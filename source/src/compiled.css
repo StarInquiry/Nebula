@@ -32,7 +32,10 @@
           mask: none !important;
   border-radius: var(--avatar-radius);
 }
-
+/* Nebula no capitalize */
+.sidebar-2K8pFh .container-3w7J-x .scroller-RmtA4e .name-23GUGE, .sidebar-2K8pFh .container-3w7J-x .scroller-RmtA4e .iconContainer-1BBaeJ svg, .sidebar-2K8pFh .container-3w7J-x .scroller-RmtA4e .icon-2yIBmh {
+    text-transform: initial;
+}
 .newMessagesBar-265mhP {
   background-color: var(--background-tertiary);
   border-radius: var(--neb-border-radius1);
